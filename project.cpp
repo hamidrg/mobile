@@ -1,4 +1,3 @@
-//Hamidreza Ghorbani 4001231091
 #include <iostream>
 #include <fstream>
 #include <string.h>
